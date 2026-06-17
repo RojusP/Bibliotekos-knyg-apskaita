@@ -1,18 +1,25 @@
 Knygų informacijos valdymo sistema
-Projekto tikslas
-Šio darbo tikslas – sukurti C++ konsolinę programą, kuri leidžia saugoti ir tvarkyti knygų duomenis. Programoje taikomi struktūrinio programavimo principai ir naudojami pagrindiniai C++ kalbos elementai.
 
-Pasirinkta tema
+Projekto tikslas:
+
+Sukurti C++ konsolinę programą, kuri leidžia saugoti ir tvarkyti knygų duomenis. Programoje taikomi struktūrinio programavimo principai ir naudojami pagrindiniai C++ kalbos elementai.
+
+Pasirinkta tema:
+
 Projektas priskiriamas bibliotekos knygų apskaitos temai. Programa skirta paprastam knygų sąrašo valdymui: galima pridėti, peržiūrėti, keisti ir ištrinti duomenis.
 
-Programos funkcionalumas
+Programos funkcionalumas:
+
 Duomenų saugojimas
+
 Programa nuskaito pradinius duomenis iš tekstinio failo books.txt. Po kiekvieno pakeitimo duomenys išsaugomi tame pačiame faile, todėl informacija išlieka.
 
 Vartotojo sąsaja
+
 Programa turi tekstinį meniu, per kurį vartotojas gali pasirinkti veiksmą įvesdamas skaičių.
 
 CRUD operacijos
+
 Programoje įgyvendintos visos būtinos operacijos:
 
 Create – naujos knygos pridėjimas
@@ -22,14 +29,18 @@ Delete – knygos pašalinimas iš sąrašo
 
 
 Papildomos funkcijos
+
 Programoje realizuotos papildomos galimybės:
 
 Paieška – galima surasti knygą pagal pavadinimą
+
 Rikiavimas – knygos gali būti išrikiuotos pagal metus didėjimo tvarka
 
 
-Naudojami failai
+Naudojami failai:
+
 main.cpp
+
 Tai pagrindinis failas, kuriame parašyta visa programos logika:
 
 duomenų įkėlimas iš failo
