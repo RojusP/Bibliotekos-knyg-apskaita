@@ -1,0 +1,15 @@
+1;Altoriu sesely;Putinas;1933
+2;Balta drobule;Kuncinas;1958
+3;Dievu miskas;Sruoga;1945
+4;Metai;Donelaitis;1818
+5;Ponas Tadas;Mickevicius;1834
+6;Haris Poteris;Rowling;1997
+7;Ziedu valdovas;Tolkien;1954
+8;1984;Orwell;1949
+9;Gyvuliu ukis;Orwell;1945
+10;Mazasis princas;Exupery;1943
+11;Knyga1;Autorius1;2001
+12;Knyga2;Autorius2;2005
+13;Knyga3;Autorius3;2010
+14;Knyga4;Autorius4;2015
+15;Knyga5;Autorius5;2020
